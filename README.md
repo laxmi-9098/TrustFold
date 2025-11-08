@@ -39,5 +39,5 @@ To establish a transparent and decentralized platform for digital agreements whe
 ## contract details: 0x997ad7D47D4a0dac1Cc69B51673eD1bB23161f98
 <img width="1400" height="667" alt="image" src="https://github.com/user-attachments/assets/36897176-55cb-46a3-b8b4-5d9e029e1065" />
 // 
-Updated on 2025-11-05
+End
 // 
